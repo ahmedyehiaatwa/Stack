@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1640635411 source:d:\ahmed\sprints\reprosit\gitfolder\mystack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.c"
+
+1640635291 d:\ahmed\sprints\reprosit\gitfolder\mystack\stack.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"Def.h"
+
+1640634474 d:\ahmed\sprints\reprosit\gitfolder\mystack\def.h
+
+1640635553 d:\ahmed\sprints\reprosit\gitfolder\mystack\stack.c
+	"Stack.h"
+
